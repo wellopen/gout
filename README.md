@@ -1,0 +1,2 @@
+# gout
+utils for golang
